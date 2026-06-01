@@ -1,0 +1,3 @@
+# Application Question: "What is the best work you have done?" (100 words)
+
+I built a comprehensive AI Tutor portfolio from scratch — recording and annotating voice samples in Mandarin, Sichuan dialect, Shaanxi dialect, and English. Each sample includes word-level transcription, dialect identification, prosodic analysis, and audio quality assessment. The centerpiece is a contrastive reading of the same sentence in four language varieties, demonstrating systematic awareness of tonal, lexical, and prosodic differences across dialects. This portfolio directly proves my ability to do the work an AI Tutor requires: accurate transcription, independent judgment on accented or noisy audio, and clear vocal delivery for model training.
